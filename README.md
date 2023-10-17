@@ -45,7 +45,7 @@ Scrum is the most popular agile framework in use today as it helps developers an
 # How to implement SCRUM??
 
 - **Step 01: Create user stories or tasks in the product backlog**
-- **\*Step 02: Start a sprint**
+- **Step 02: Start a sprint**
 - **Step 03: Hold the sprint planning meeting**
   At the beginning of a sprint, you should hold the sprint planning meeting with the rest of your team. The sprint planning meeting is a ceremony that sets up the entire team for success throughout the sprint. In this meeting, the entire team discusses the sprint goal and the stories in the prioritized product backlog.
 - **Step 04: Hold the daily standup meetings**
