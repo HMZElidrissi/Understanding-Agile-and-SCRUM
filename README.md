@@ -1,8 +1,5 @@
 # Understanding Agile and SCRUM: A Beginner's Guide
 
-Published: Draft
-Tags: Project Management
-
 Imagine you're planning a cross-country road trip. You've got your route all mapped out, your destinations planned, and your accommodations booked along the way.
 
 You hit the road, but as you go, you encounter unexpected road closures, detours, and amazing roadside attractions you hadn't heard of before. In the traditional, non-Agile approach, you'd stick to your original plan no matter what, even if it means missing out on exciting new experiences and struggling through closed highways.
@@ -27,7 +24,7 @@ For implementing these Agile principles we use specific frameworks and methodolo
 Scrum is the most popular agile framework in use today as it helps developers and teams to work collaboratively while building high-quality products. To understand Scrum, we need first to understand its terminology:
 
 - A **sprint** is a short, time-boxed period when a scrum team works to complete a set amount of work.
-- ****\*\*\*\*****User story:****\*\*\*\*****
+- \***\*\*\*\*\*\*\***User story:\***\*\*\*\*\*\*\***
   - _A user story is an informal, general explanation of a software feature written from the perspective of the end user. Its purpose is to articulate how a software feature will provide value to the customer._
   - It's tempting to think that user stories are, simply put, software system requirements. But they're not.
   - User stories are used to describe work items in a non-technical language and from a user's perspective. . As a {type of user}, I want {goal} so that I {receive benefit}.
@@ -48,13 +45,13 @@ Scrum is the most popular agile framework in use today as it helps developers an
 # How to implement SCRUM??
 
 - **Step 01: Create user stories or tasks in the product backlog**
-- \***\*Step 02: Start a sprint\*\***
+- **\*Step 02: Start a sprint**
 - **Step 03: Hold the sprint planning meeting**
   At the beginning of a sprint, you should hold the sprint planning meeting with the rest of your team. The sprint planning meeting is a ceremony that sets up the entire team for success throughout the sprint. In this meeting, the entire team discusses the sprint goal and the stories in the prioritized product backlog.
 - **Step 04: Hold the daily standup meetings**
-- \***\*Step 05: Hold the sprint review meeting\*\***
+- **Step 05: Hold the sprint review meeting**
   The sprint review, or sprint demo, is a sharing meeting where the team shows what they've shipped in that sprint. Each sprint usually produces a working part of the product called an increment.
-- \***\*Step 05: Hold the sprint retrospective meeting\*\***
+- **Step 05: Hold the sprint retrospective meeting**
 - **Step 06: Repeat**
 
 ---
