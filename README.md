@@ -24,7 +24,7 @@ For implementing these Agile principles we use specific frameworks and methodolo
 Scrum is the most popular agile framework in use today as it helps developers and teams to work collaboratively while building high-quality products. To understand Scrum, we need first to understand its terminology:
 
 - A **sprint** is a short, time-boxed period when a scrum team works to complete a set amount of work.
-- \***\*\*\*\*\*\*\***User story:\***\*\*\*\*\*\*\***
+- **User story:**
   - _A user story is an informal, general explanation of a software feature written from the perspective of the end user. Its purpose is to articulate how a software feature will provide value to the customer._
   - It's tempting to think that user stories are, simply put, software system requirements. But they're not.
   - User stories are used to describe work items in a non-technical language and from a user's perspective. . As a {type of user}, I want {goal} so that I {receive benefit}.
